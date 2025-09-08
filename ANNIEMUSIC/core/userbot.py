@@ -8,11 +8,11 @@ assistants = []
 assistantids = []
 
 GROUPS_TO_JOIN = [
-    "CertifiedDiscussion",
-    "CertifiedCoders",
-    "CertifiedCodes",
-    "CertifiedDevs",
-    "CertifiedNetwork",
+    "Veron_movies",
+    "VERONxNETWORK",
+    "Veron_bots",
+    "VERON_BANS",
+    "Matlabi_Duniyah",
 ]
 
 
@@ -78,7 +78,7 @@ class Userbot:
 
             try:
                 await client.send_message(
-                    config.LOGGER_ID, f"Annie's Assistant {index} Started"
+                    config.LOGGER_ID, f"Veron Assistant {index} Started"
                 )
             except Exception:
                 LOGGER(__name__).error(
