@@ -4,12 +4,12 @@ import random
 import requests
 from ANNIEMUSIC import app
 
-SUPPORT_CHAT = "CERTIFIEDCODERS"
+SUPPORT_CHAT = "VERON_SUPPORTS"
 SUPPORT_BTN = InlineKeyboardMarkup(
     [[InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}")]]
 )
 
-CUTE_VIDEO = "https://telegra.ph/file/528d0563175669e123a75.mp4"
+CUTE_VIDEO = "https://files.catbox.moe/hkq9vh.webm"
 
 
 @app.on_message(filters.command("wish"))
