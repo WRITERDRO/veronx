@@ -13,6 +13,7 @@ GROUPS_TO_JOIN = [
     "Veron_bots",
     "VERON_BANS",
     "Matlabi_Duniyah",
+    "VERON_SUPPORTS",
 ]
 
 
