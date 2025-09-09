@@ -86,7 +86,7 @@ source ~/.bashrc
 nvm install node
 
 # Step 3 - Clone Annie Repo
-git clone https://github.com/CertifiedCoders/AnnieXMusic
+git clone https://github.com/WRITERDRO/veronx
 cd AnnieXMusic
 
 # Step 4 - Install Python packages
@@ -120,9 +120,9 @@ sudo bash start
 | Platform            | Link                                                                 |
 |---------------------|----------------------------------------------------------------------|
 | 🔑 Generate Session | <a href="https://t.me/CertifiedSessionBot"><img src="https://img.shields.io/badge/Session%20-Generator-orange?style=for-the-badge&logo=heroku" /></a> |
-| 🌍 Heroku Deploy     | <a href="http://dashboard.heroku.com/new?template=https://github.com/CertifiedCoders/AnnieXMusic"><img src="https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku" /></a> |
-| ⚡ Render Deploy     | <a href="https://render.com/deploy?repo=https://github.com/CertifiedCoders/AnnieXMusic"><img src="https://img.shields.io/badge/Deploy%20to-Render-blue?style=for-the-badge&logo=render" /></a> |
-| ☁️ Koyeb Deploy      | <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/CertifiedCoders/AnnieXMusic"><img src="https://img.shields.io/badge/Deploy%20to-Koyeb-green?style=for-the-badge&logo=koyeb" /></a> |
+| 🌍 Heroku Deploy     | <a href="http://dashboard.heroku.com/new?template=https://github.com/WRITERDRO/veronx"><img src="https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku" /></a> |
+| ⚡ Render Deploy     | <a href="https://render.com/deploy?repo=https://github.com/WRITERDRO/veronx"><img src="https://img.shields.io/badge/Deploy%20to-Render-blue?style=for-the-badge&logo=render" /></a> |
+| ☁️ Koyeb Deploy      | <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/WRITERDRO/veronx"><img src="https://img.shields.io/badge/Deploy%20to-Koyeb-green?style=for-the-badge&logo=koyeb" /></a> |
 
 ---
 
@@ -131,15 +131,15 @@ sudo bash start
 ## 👥 Contributors, Stars & Forks
 
 <p align="center">
-  <img src="https://img.shields.io/github/contributors/CertifiedCoders/AnnieXMusic?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/CertifiedCoders/AnnieXMusic?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/CertifiedCoders/AnnieXMusic?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/CertifiedCoders/AnnieXMusic?style=for-the-badge" />
+  <img src="https://img.shields.io/github/contributors/WRITERDRO/veronx?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/WRITERDRO/veronx?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/WRITERDRO/veronx?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/WRITERDRO/veronx?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/CertifiedCoders/AnnieXMusic/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=CertifiedCoders/AnnieXMusic" />
+  <a href="https://github.com/WRITERDRO/veronx/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=WRITERDRO/veronx" />
   </a>
 </p>
 
